@@ -1,0 +1,9 @@
+{
+	"name": "MIHB",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2eceb97a-8f0f-4905-8b1c-aa2086d324c0",
+		"tenantId": "a9475934-22fa-4c30-8005-7569d50a84f3"
+	}
+}
