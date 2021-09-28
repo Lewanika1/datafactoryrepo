@@ -6,7 +6,7 @@
 #include <ctime>
 
 
-using namespace std;
+using namespace std;;;;
 
 // Creating an enum
 	enum menu {
